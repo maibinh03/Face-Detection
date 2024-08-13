@@ -26,3 +26,4 @@ while True:
         break
 
 cam.release()
+cv2.destroyAllWindows()
